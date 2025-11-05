@@ -1,0 +1,78 @@
+{
+  "user_id": "demo_user_123",
+  "transactions": [
+    {
+      "date": "2025-10-15",
+      "amount": 2500.00,
+      "currency": "INR",
+      "merchant": "Rent Payment",
+      "category": "Housing",
+      "note": "Monthly rent"
+    },
+    {
+      "date": "2025-10-16",
+      "amount": 1200.00,
+      "currency": "INR",
+      "merchant": "Big Bazaar",
+      "category": "Groceries",
+      "note": "Weekly groceries"
+    },
+    {
+      "date": "2025-10-17",
+      "amount": 350.00,
+      "currency": "INR",
+      "merchant": "Uber",
+      "category": "Transportation",
+      "note": "Ride to office"
+    },
+    {
+      "date": "2025-10-18",
+      "amount": 4500.00,
+      "currency": "INR",
+      "merchant": "Apple Store",
+      "category": "Electronics",
+      "note": "AirPods Pro"
+    },
+    {
+      "date": "2025-10-19",
+      "amount": 800.00,
+      "currency": "INR",
+      "merchant": "Cafe Coffee Day",
+      "category": "Dining",
+      "note": "Coffee with friends"
+    },
+    {
+      "date": "2025-10-20",
+      "amount": 1500.00,
+      "currency": "INR",
+      "merchant": "Reliance Fresh",
+      "category": "Groceries",
+      "note": "Weekly groceries"
+    },
+    {
+      "date": "2025-10-21",
+      "amount": 250.00,
+      "currency": "INR",
+      "merchant": "BookMyShow",
+      "category": "Entertainment",
+      "note": "Movie tickets"
+    },
+    {
+      "date": "2025-10-22",
+      "amount": 3000.00,
+      "currency": "INR",
+      "merchant": "Myntra",
+      "category": "Shopping",
+      "note": "New clothes for Diwali"
+    },
+    {
+      "date": "2025-10-23",
+      "amount": 600.00,
+      "currency": "INR",
+      "merchant": "Swiggy",
+      "category": "Food Delivery",
+      "note": "Dinner ordered"
+    }
+  ],
+  "notes": "This month I spent more than usual due to Diwali shopping. Bought AirPods which was a big expense. Trying to control food delivery spending. Need to save more for the upcoming travel in December."
+}
